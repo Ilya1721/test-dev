@@ -1,1 +1,2 @@
 database: localhost
+mysql connection

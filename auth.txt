@@ -1,1 +1,1 @@
-auth = blalbvla;
+auth = auth;
