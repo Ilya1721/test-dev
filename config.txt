@@ -1,2 +1,2 @@
-database: localhost
+database: deploy
 mysql connection
